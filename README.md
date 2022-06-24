@@ -14,6 +14,7 @@ A speech dataset to support financial inclusion in Ghana created by Ashesi Unive
 - ~39 hours of Fanti from ~200 speakers
 - ~40 hours of Ga from ~200 speakers
 - Total of ~148 hours of speech data
+- Total size: 1.19GB
 
 ## Recorded Sentences
 - ~130 sentences were recorded for each language (dialect) per speaker
@@ -54,4 +55,8 @@ We randomly selected 10% of the data for each language into its own archive and 
 Each folder contains a data.csv file with the audio file path, transcription and translation of the transcription into English. (*NB:* Ignore the first two directories in the file path)
 
 The file name contains inforrmation about the speaker. An example file name is GaFm21-ATuJLn5X-Tmp083-zykm34.ogg. The first part contains the language, gender and age of the speaker. In this case, the language is Ga, the speaker is female and the age is 21. The second part of the file name is the unique speaker id. Each recording by that speaker has that unique id.
+
+## Citation
+
+Asamoah Owusu, D., Korsah, A., Quartey, B., Nwolley Jnr., S., Sampah, D., Adjepon-Yamoah, D. and Omane Boateng, L., 2022. GitHub - Ashesi-Org/Financial-Inclusion-Speech-Dataset: A speech dataset to support financial inclusion created by Ashesi University and Nokwary Technologies with funding from Lacuna Fund.. [online] GitHub. Available at: <https://github.com/Ashesi-Org/Financial-Inclusion-Speech-Dataset>.
 
